@@ -1,14 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>Untitled Document</title>
-</head>
-
-<body>
-Florence Finnegan
-<!-- #BeginLibraryItem "/Library/doctors-companions-villains.lbi" -->
-<h2>Doctors </h2>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><h2>Doctors </h2>
 <ul>
   <li><a href="../doctor-who/doctor-who-01.html">The First Doctor</a></li>
   <li><a href="../doctor-who/doctor-who-02.html">The Second Doctor</a></li>
@@ -32,17 +22,13 @@ Florence Finnegan
 </ul>
 <h2>Villains</h2>
 <ul>
-  <li><a href="dalek.html">Dalek</a></li>
-  <li><a href="cybermen.html">Cybermen</a></li>
-  <li><a href="florence-finnegan.html">Florence Finnegan</a></li>
-  <li><a href="sisters-of-plentitude.html">Sisters of Plentitude</a></li>
-  <li><a href="the-family-of-blood.html">The Family of Blood</a></li>
-  <li><a href="professor-richard-lazarus.html">Professor Richard Lazarus</a></li>
-  <li><a href="sontarans.html">Sontarans</a></li>
-  <li><a href="luke-rattigan.html">Luke Rattigan</a></li>
-  <li><a href="the-master.html">The Master</a></li>
-  <li><a href="adipose.html">Adipose </a></li>
-</ul>
-<!-- #EndLibraryItem -->
-</body>
-</html>
+  <li><a href="../villains/dalek.html">Dalek</a></li>
+  <li><a href="../villains/cybermen.html">Cybermen</a></li>
+  <li><a href="../villains/florence-finnegan.html">Florence Finnegan</a></li>
+  <li><a href="../villains/sisters-of-plentitude.html">Sisters of Plentitude</a></li>
+  <li><a href="../villains/the-family-of-blood.html">The Family of Blood</a></li>
+  <li><a href="../villains/professor-richard-lazarus.html">Professor Richard Lazarus</a></li>
+  <li><a href="../villains/sontarans.html">Sontarans</a></li>
+  <li><a href="../villains/luke-rattigan.html">Luke Rattigan</a></li>
+  <li><a href="../villains/the-master.html">The Master</a></li>
+  <li><a href="../villains/adipose.html">Adipose </a></li></ul>
